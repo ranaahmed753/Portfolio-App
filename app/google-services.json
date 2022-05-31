@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "27217285445",
+    "firebase_url": "https://portfolio-app-511c2.firebaseio.com",
+    "project_id": "portfolio-app-511c2",
+    "storage_bucket": "portfolio-app-511c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27217285445:android:85b94abb636c0df76b6e2c",
+        "android_client_info": {
+          "package_name": "com.codingbaba.portfolioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27217285445-qotn2k476mlbk4vhqq5a52v1t09giala.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgQhrVPhjlKqyjEoh57tMjXmjxwJwFcLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27217285445-qotn2k476mlbk4vhqq5a52v1t09giala.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
